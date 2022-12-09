@@ -1,0 +1,48 @@
+img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 480px;
+    padding: 15PX;
+    height: 360px;
+
+}
+
+body{
+
+    background-color: #fad4a2f3;
+    font-family: sans-serif;
+
+}
+
+nav a {
+
+ 
+    align-self: auto;
+    font-size: 1.1rem;
+    padding-right: 15px;
+
+}
+header{
+    
+    text-align: center;
+    border-width: 2.5px;
+}
+h1{
+
+    text-align: center;
+
+}
+h2{
+
+    text-align: center;
+
+}
+h3{
+
+    text-align: center;
+
+}
+
+
