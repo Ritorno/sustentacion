@@ -16,9 +16,10 @@
     <header>
 
         <nav>
-        <a href="Root/Pentagono.html" > Pentagono </a>
-        <a href="Root/Heptagono.html" > Heptagono </a>
-        <a href="Root/Circulo.html" > Circulo </a>
+        <a href="Root/Pentagono.jsp" > Pentagono </a>
+        <a href="Root/Heptagono.jsp" > Heptagono </a>
+        <a href="Root/Circulo.jsp" > Circulo </a>
+        
         </nav>
 
         
