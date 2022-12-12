@@ -1,4 +1,5 @@
 package figurasGeometricas;
+
 import java.util.Scanner;
 
 public class Pentagono {
@@ -15,10 +16,10 @@ public class Pentagono {
 
 
 
-    public void Pentagono(){
+    public  Pentagono(){
 
     }
-    public void Pentagono(double lados,double perimetro, double apotema, double area){
+    public  Pentagono(double lados,double perimetro, double apotema, double area){
 
         this.lados=lados;
         this.perimetro=perimetro;

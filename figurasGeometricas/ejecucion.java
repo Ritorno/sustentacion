@@ -56,9 +56,22 @@ public class ejecucion {
 
                 case 3:
 
+                Circulo circulo = new Circulo();
+
+                circulo.getRadio();
+
+                circulo.registrarPerimetro();
+
+                circulo.getPi();
+
+                circulo.registrarArea();
+
+
+                
+
                 break;
         
-            default:
+            default: System.ot.println(" opcion incorrecta o inexistente ");
                 break;
         }
 

@@ -15,12 +15,12 @@ public class Heptagono {
 
 
 
-    public void Heptagono(){
+    public Heptagono(){
 
 
 
     }
-    public void Heptagono(double lados,double perimetro, double apotema, double area){
+    public  Heptagono(double lados,double perimetro, double apotema, double area){
 
         this.lados=lados;
         this.perimetro=perimetro;
